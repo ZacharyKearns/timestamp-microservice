@@ -14,7 +14,8 @@
   "engines": {
     "node": "4.4.3"
   },
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
-  },
+  }
 }
